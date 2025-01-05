@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # GetSkilledOnline: An Online Education Platform (MERN App)
 
@@ -64,3 +65,6 @@ The platform follows a client-server architecture with three main components:
 ---
 
 GetSkilledOnline provides an immersive learning experience for students and a platform for instructors to showcase their expertise, supported by a robust and scalable technical infrastructure.
+=======
+# BaseSample1
+>>>>>>> 0abacd4b40ea2794374b1ebb76c4344355e5c819
